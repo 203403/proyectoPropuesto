@@ -13,6 +13,7 @@ public class Servicio{
         this.costo = costo;
     }
     
+    //Cambio para GitHub
     //Getters y Setters de los atributos
     public String getTipo() {
         return this.tipo;
